@@ -13,12 +13,12 @@ const channels = [
   {
     name: "test",
     token:
-      "007eJxTYPjYNbkqlPWZwiN7VSVNqYlVGy8Ip3wINlROXZXeW/JROEuBIcU8xdI80cwozSjR0MTUJNHCODnFNCkpxTjN0szSIiVp5ubH6Q2BjAz7F3QxMEIhiM/CUJJaXMLAAAAAcx9s",
+      "007eJxTYOi0/3N28ZznpQYu9v8LFu74/GD3/w13rrnJfJ/fwZ60f+8SBYYU8xRL80QzozSjREMTU5NEC+PkFNOkpBTjNEszS4uUpDKDp+kNgYwMBbkPGRkZIBDEZ2EoSS0uYWAAALA5JCs=",
   },
   {
     name: "test2",
     token:
-      "007eJxTYGiIOrNY4eRBtSaGzx6WYgt/Xbua/uPTnm+Kz0+zZP9g2/xWgSHFPMXSPNHMKM0o0dDE1CTRwjg5xTQpKcU4zdLM0iIlaeXmx+kNgYwMBRvDGBihEMRnZShJLS4xYmAAAGVZI3k=",
+      "007eJxTYGj0Zit4avy4yurjIfdlvJyHWs+36t5gKl84Y+XPWablm/YqMKSYp1iaJ5oZpRklGpqYmiRaGCenmCYlpRinWZpZWqQktRs8TW8IZGTw39/NwAiFID4rQ0lqcYkRAwMAroAg+g==",
   },
 ];
 
