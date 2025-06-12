@@ -8,17 +8,17 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
 
 const appId = "d7d97a62f2a1454a83cd5bbd3f9698db";
-
+//https://dc6a0d22052b0cd1b0ef-hariharanits-projects.vercel.app/1298db27-440c-4473-afea-426d21281f77
 const channels = [
   {
     name: "test",
     token:
-      "007eJxTYOi0/3N28ZznpQYu9v8LFu74/GD3/w13rrnJfJ/fwZ60f+8SBYYU8xRL80QzozSjREMTU5NEC+PkFNOkpBTjNEszS4uUpDKDp+kNgYwMBbkPGRkZIBDEZ2EoSS0uYWAAALA5JCs=",
+      "007eJxTYHh0eseP96u2vXD49+TA/kM6nJ7fe86UWx1Wceh7zVBdtD9bgSHFPMXSPNHMKM0o0dDE1CTRwjg5xTQpKcU4zdLM0iIlaXOjV0ZDICPDBbVnLIwMEAjiszCUpBaXMDAAALL1I80=",
   },
   {
     name: "test2",
     token:
-      "007eJxTYGj0Zit4avy4yurjIfdlvJyHWs+36t5gKl84Y+XPWablm/YqMKSYp1iaJ5oZpRklGpqYmiRaGCenmCYlpRinWZpZWqQktRs8TW8IZGTw39/NwAiFID4rQ0lqcYkRAwMAroAg+g==",
+      "007eJxTYPioZXu9hEt8mtkZD97nWfVWqub6dQEbNs7ImeV4c/t8NV8FhhTzFEvzRDOjNKNEQxNTk0QL4+QU06SkFOM0SzNLi5SkPY1eGQ2BjAwpV9YwMzJAIIjPylCSWlxixMAAAPfYHto=",
   },
 ];
 
